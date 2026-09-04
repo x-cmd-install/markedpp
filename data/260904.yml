@@ -7,7 +7,7 @@ about:
   head: c316cef
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:35:03Z
+  collectedAt: 2026-09-04T20:57:55Z
 timeline:
   created: 2014-09-01
   lastCommit: 2025-08-18
@@ -82,6 +82,44 @@ total:
   openIssue: 1
   commit: 97
 ---
+path: /home/runner/.x-repo/github.com/commenthol/markedpp
+collectedAt: 2026-09-04T20:57:55Z
+loc:
+  JavaScript:
+    code: 7780
+    comments: 664
+    blanks: 459
+    files: 26
+  Html:
+    code: 670
+    comments: 1
+    blanks: 3
+    files: 4
+  Json:
+    code: 107
+    comments: 0
+    blanks: 0
+    files: 1
+  Makefile:
+    code: 35
+    comments: 0
+    blanks: 11
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4013
+    blanks: 2704
+    files: 121
+  Text:
+    code: 0
+    comments: 71
+    blanks: 36
+    files: 1
+total:
+  code: 8670
+  comments: 4769
+  blanks: 3226
+  files: 154
 ---
 date: "2026-08-24"
 repo:
